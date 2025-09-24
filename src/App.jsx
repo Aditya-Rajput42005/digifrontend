@@ -94,7 +94,7 @@ export default function TeacherDashboard() {
           {/* Main */}
           <main className="flex-1">
             <header className="flex items-center justify-between mb-6">
-              <h1 className="text-2xl font-bold">TEACHERS DASHBOARD <br></>(Dummy Representation)</h1>
+              <h1 className="text-2xl font-bold">TEACHERS DASHBOARD <br><br/>(Dummy Representation)</h1>
               
               <div className="flex items-center gap-4">
                 <div className="hidden sm:flex items-center gap-2 text-sm text-gray-500">
